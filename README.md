@@ -34,7 +34,7 @@ docker pull mysteriumnetwork/myst && docker run --cap-add NET_ADMIN -d -p 4449:4
 
 其他相关问题可在```https://docs.mysterium.network/```中找到解决办法
 
-#### 注意事项
+### 注意事项
 
 后续新增别的节点需要迁移节点信息，得琢磨docs中的迁移节点部分
 
@@ -48,8 +48,10 @@ docker exec -ti myst 命令部分
 
 新增节点还是得付设置费，但此时手上已有一定量的MYST代币了，记得使用polygon链上的货币进行付款即可，成本就比较低廉了
 
-#### 收益
+### 收益
 
 美国数据中心IP一天24小时大概收入0.1~0.2个MYST货币(前提是网络不垃圾，1Gbps带宽)
 
 提款需要收大概20%手续费，可以等节点满5个MYST货币自动提款，也可以访问对应IP的UI面板手动提款
+
+家宽收益比数据中心的高，现在1个MYST货币大概等于0.2美元
