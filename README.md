@@ -10,7 +10,7 @@
 
 手中有1美元paypal余额或3USD左右的MATIC或者5USD左右的ETH
 
-#### 安装
+### Docker版本的安装流程(别的方法自行查看docs)
 
 事先安装好docker
 
