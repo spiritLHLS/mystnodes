@@ -36,7 +36,7 @@ docker pull mysteriumnetwork/myst && docker run --cap-add NET_ADMIN -d -p 4449:4
 
 ### 注意事项
 
-后续新增别的节点需要迁移节点信息，得琢磨docs中的迁移节点部分
+后续这个节点不用的需要迁移节点信息可以不用在新节点上再交一笔设置费，得琢磨docs中的迁移节点部分
 
 由于使用docker安装，myst命令变成了
 
