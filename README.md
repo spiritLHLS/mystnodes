@@ -8,7 +8,7 @@
 
 一台能连接互联网的服务器或本地设备
 
-主流架构不是特殊架构，最好是支持docker
+主流架构不是特殊架构，最好是支持docker(LXC虚拟化不可以，因为Docker无法在LXC上创建shim)
 
 手中有1美元paypal余额或1USD左右的MATIC (没有的欢迎咨询 https://t.me/spiritlhl_bot )
 
