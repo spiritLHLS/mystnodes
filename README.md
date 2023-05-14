@@ -10,7 +10,7 @@
 
 主流架构不是特殊架构，最好是支持docker(LXC虚拟化不可以，因为Docker无法在LXC上创建shim)
 
-手中有1美元paypal余额或1USD左右的MATIC (没有的欢迎咨询 https://t.me/spiritlhl_bot )
+手中有0.5USD左右Polygon链上的MATIC代币 (没有的欢迎咨询 https://t.me/spiritlhl_bot )
 
 ### Docker版本的安装流程(别的方法自行查看docs)
 
