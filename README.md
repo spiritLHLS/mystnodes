@@ -6,6 +6,8 @@
 
 ### 前置条件
 
+注册网站：https://mystnodes.co/?referral_code=qx2oT3x6bxKOXYJ906Ca9m0PKAvk8g3wcEd2o5IJ
+
 一台能连接互联网的服务器或本地设备
 
 主流架构不是特殊架构，最好是支持docker(LXC虚拟化不可以，因为Docker无法在LXC上创建shim)
@@ -29,7 +31,7 @@ sudo docker stop watchtower; sudo docker rm watchtower; sudo docker rmi containr
 
 需要设置自己的Key，然后付款设置费，再然后设置提款地址
 
-自己的Key可在```https://mystnodes.com/me```中的```API details```找到
+自己的Key可在中的```API details```找到
 
 推荐初期第一个节点使用paypal，因为不用考虑各种矿工费，除非这之前持有MATIC，否则使用加密货币支付设置费都很奢侈
 
