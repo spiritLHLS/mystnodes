@@ -22,7 +22,7 @@ curl -sSL https://get.docker.com/ | sh
 
 然后运行
 
-- 这里映射的内外网端口一致，如果需要外网端口为别的，假设为```2222```，则将```4449:4449```改为```2222:4449```
+(这里映射的内外网端口一致，如果需要外网端口为别的，假设为```2222```，则将```4449:4449```改为```2222:4449```)
 
 ```bash
 docker pull mysteriumnetwork/myst && docker run --log-opt max-size=10m --cap-add NET_ADMIN -d -p 4449:4449 --name myst -v myst-data:/var/lib/mysterium-node --restart unless-stopped mysteriumnetwork/myst:latest service --agreed-terms-and-conditions
