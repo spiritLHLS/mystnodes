@@ -2,8 +2,6 @@
 
 ## mystnodes使用的中文记录
 
-**千万不要在生产机器上跑！这个东西可能被用于滥用服务！比如发送垃圾邮件等！**
-
 ### 前置条件
 
 注册网站：https://mystnodes.co/?referral_code=qx2oT3x6bxKOXYJ906Ca9m0PKAvk8g3wcEd2o5IJ
