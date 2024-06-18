@@ -4,7 +4,9 @@
 
 ### 前置条件
 
-注册网站：https://mystnodes.co/?referral_code=qx2oT3x6bxKOXYJ906Ca9m0PKAvk8g3wcEd2o5IJ
+注册网站(当你使用家宽赚取5MYST后，你会得到5MYST奖励)：
+
+https://mystnodes.co/?referral_code=qx2oT3x6bxKOXYJ906Ca9m0PKAvk8g3wcEd2o5IJ
 
 一台能连接互联网的服务器或本地设备
 
