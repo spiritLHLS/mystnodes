@@ -8,7 +8,7 @@
 
 ### Pre-conditions
 
-Register for the site: 
+Register for the site(you will receive a bonus of 5 MYST when you earn 5 MYST by residential): 
 
 https://mystnodes.co/?referral_code=qx2oT3x6bxKOXYJ906Ca9m0PKAvk8g3wcEd2o5IJ
 
